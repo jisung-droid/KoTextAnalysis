@@ -1,2 +1,4 @@
+streamlit
+jpype1
 PyKomoran==0.1.6.post1
 pandas==2.2.3
